@@ -1,0 +1,7 @@
+body{
+    background-image: url(file:///C:/Users/HP/Desktop/HTML%20and%20CSS%20project%201/benazir%20picture.jpg);
+    width: 300px;
+    height: 320px;
+    border-radius: 50%;
+    overflow:hidden;
+}
